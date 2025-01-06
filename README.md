@@ -1,2 +1,2 @@
 # Roll-Dice-Game
-A dice game project using HTML,CSS,JS 
+A dice game project using HTML,CSS,JS languages
